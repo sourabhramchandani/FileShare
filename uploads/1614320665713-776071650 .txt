@@ -1,0 +1,13 @@
+files:{
+		metadata info,
+		id,
+		fileowner,
+		filerecipient:[
+		{username:"efe", userid:"sgsd"},
+		{username:"efe", userid:"sgsd"}] 
+	}
+
+users:{
+		name,
+		password
+	}
